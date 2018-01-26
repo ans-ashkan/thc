@@ -1,0 +1,5 @@
+config.yml
+*.txt
+*.json
+thc
+thc.exe
